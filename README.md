@@ -1,6 +1,5 @@
 
 # Productservice_FakeStore
-# ProductService_FakeStore
 # Cart Service API
 
 This is a Java Spring Boot application that provides a RESTful API for a Cart Service. It interacts with the FakeStoreApi to perform various operations related to a shopping cart.
